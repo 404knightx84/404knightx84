@@ -1,23 +1,115 @@
+<h1>👋 Hi, I'm Kalpesh Koli</h1>
 
-<h1 align="center">Hi 👋, I'm Kalpesh Koli</h1>  
-<h3 align="center">A passionate technology and work in areas like AI and machine learning, data science, cybersecurity, neural networks, and deep learning</h3>
+  <p>
+        🎓 <strong>Data Science Student</strong> | 
+        🐍 <strong>Backend Developer (Python)</strong> | 
+        🤖 <strong>Machine Learning Enthusiast</strong> | 
+        🔐 <strong>Cybersecurity Learner</strong>
+    </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404knightx84&label=Profile%20views&color=0e75b6&style=flat" alt="404knightx84" /> </p>
+  <hr> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kalpesh-koli-1756b823b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalpesh-koli-1756b823b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/knightx84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="knightx84" height="30" width="40" /></a>
-<a href="https://kaggle.com/knightkai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="knightkai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/knightx84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knightx84" height="30" width="40" /></a>
-</p>
+   <h2>🚀 About Me</h2>
+  <p>
+        I am a passionate <strong>Data Science student and Backend Developer</strong> 
+        with strong interests in <strong>Machine Learning, Artificial Intelligence, and Cybersecurity</strong>.
+    </p>
+    <p>
+        I enjoy building real-world solutions using data-driven approaches and secure backend systems. 
+        My goal is to develop scalable, intelligent, and secure applications that solve meaningful problems.
+    </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+   <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=404knightx84&show_icons=true&locale=en&layout=compact" alt="404knightx84" /></p>
+  <h2>🛠️ Tech Stack</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404knightx84&show_icons=true&locale=en" alt="404knightx84" /></p>
+  <h3>👨‍💻 Programming & Backend</h3>
+    <ul>
+        <li>Python</li>
+        <li>Flask / FastAPI</li>
+        <li>Django (Basic)</li>
+        <li>REST APIs</li>
+        <li>SQL & Database Design</li>
+    </ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404knightx84&" alt="404knightx84" /></p>
+  <h3>📊 Data Science & Machine Learning</h3>
+    <ul>
+        <li>NumPy</li>
+        <li>Pandas</li>
+        <li>Matplotlib / Seaborn</li>
+        <li>Scikit-Learn</li>
+        <li>TensorFlow (Basic)</li>
+        <li>Data Cleaning & EDA</li>
+        <li>Model Building & Evaluation</li>
+    </ul>
 
+  <h3>🔐 Cybersecurity</h3>
+    <ul>
+        <li>Network Security Basics</li>
+        <li>Cryptography Fundamentals</li>
+        <li>Web Security Concepts</li>
+        <li>Ethical Hacking (Beginner Level)</li>
+        <li>Vulnerability Assessment</li>
+    </ul>
+
+  <h3>☁️ Tools & Technologies</h3>
+    <ul>
+        <li>Git & GitHub</li>
+        <li>Linux</li>
+        <li>VS Code</li>
+        <li>Jupyter Notebook</li>
+        <li>Docker (Learning)</li>
+    </ul>
+
+  <hr>
+    <h2>📌 Current Focus</h2>
+    <ul>
+        <li>Building ML-powered real-world projects</li>
+        <li>Developing secure backend APIs</li>
+        <li>Learning advanced cybersecurity concepts</li>
+        <li>Exploring Cloud Computing & AI</li>
+    </ul>
+
+  <hr>
+
+  <h2>📈 GitHub Stats</h2>
+    <p>You can add your GitHub stats below:</p>
+
+   <pre>
+&lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats"&gt;
+    </pre>
+
+  <hr>
+
+  <h2>📂 Featured Projects</h2>
+    <ul>
+        <li>AI Loan Recommendation System</li>
+        <li>Student Financial Management Platform</li>
+        <li>A.T.E.S – Cybersecurity SaaS Concept</li>
+        <li>Backend APIs with Python & FastAPI</li>
+    </ul>
+
+  <hr>
+
+  <h2>🎯 Career Goals</h2>
+    <ul>
+        <li>Secure a high-paying tech role (Data Science / ML / Cybersecurity)</li>
+        <li>Build scalable SaaS products</li>
+        <li>Contribute to open-source security & AI projects</li>
+    </ul>
+
+  <hr>
+
+  <h2>📫 Connect With Me</h2>
+    <ul>
+        <li>LinkedIn: www.linkedin.com/in/kalpesh-koli-1756b823b</li>
+        
+       
+   </ul>
+
+  <hr>
+
+  <p><strong>⭐ "Building intelligent systems with secure foundations."</strong></p>
+
+</body>
+</html>
