@@ -122,4 +122,29 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
 </div>
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
+###
+
+<div align="left">
+  <a href = "https://www.instagram.com/_kalpesh_83/?hl=en" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href = "https://discord.com/channels/@me/1458709040191377494" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href = "www.linkedin.com/in/kalpesh-koli-1756b823b" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href = "https://tryhackme.com/p/kalpeshkoli2006" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+  <a href = "https://www.hackerrank.com/profile/kalpeshkoli2006" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  </div>
+
+<img src="https://raw.githubusercontent.com/404knightx84/404knightx84/output/snake.svg" alt="Snake animation" />
+
+
 ###
