@@ -2,7 +2,6 @@
   <img height="250" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 <h1 align=" center">Hey 👋 I'm Kalpesh</h1>
 
@@ -35,7 +34,9 @@
 <p align="left">🔧 Git<br>🌍 GitHub<br>🐧 Linux<br>💻 VS Code</p>
 
 ###
-
+<div align="center">
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+</div>
 <h1 align="left">🧠 Tech Stack</h1>
 
 ###
@@ -45,11 +46,29 @@
 ###
 
 <p align="left">🎨 Frontend Development<br>HTML5 , CSS3 , JavaScript (ES6+)<br>React.js , Tailwind CSS<br>⚙️ Backend Development<br>Python (FastAPI , Django)<br>Node.js , .NET<br>🗄️ Databases<br>SQL (Relational Databases)<br>MySQL<br>MongoDB<br>Firebase<br>Redis<br>☁️ Cloud & Infrastructure<br>AWS<br>Microsoft Azure<br>Cloudflare<br>Linux Environment<br>Docker<br>🔐 Additional Expertise<br>REST API Development<br>Authentication & Authorization<br>Scalable Backend Architecture<br>Version Control (Git & GitHub)</p>
+<h3 align="left">🤖 ML ( Machine Learning )</h3>
+<div align="center">
+</div>
+<p align="left">📊Data Processing & Analysis<br>Pandas (Data manipulation & cleaning)<br>NumPy (Numerical computing)<br>Data Preprocessing & Feature Engineering<br>📈 Machine Learning<br>Scikit-learn (Regression, Classification, Model Evaluation)<br>TensorFlow (Deep Learning Models)<br>Supervised Learning Algorithms<br>Model Training, Testing & Performance Optimization</p>
+
+<h3 align="left">🔐(Cybersecurity )</h3>
+
+###
+
+<p align="left">🔐 Cybersecurity <br>🌐 Networking: TCP/IP, OSI Model, DNS, HTTP/HTTPS<br>🐧 Systems: Linux Environment<br>🔒 Security Fundamentals: Cryptography Basics, Authentication & Authorization, Secure Coding<br>🛡️ Security Awareness: OWASP Top 10, Vulnerability & Risk Fundamentals</p>
 
 ###
 
 <div align="center">
 </div>
+
+###
+###
+
+<div align="center">
+</div>
+
+###
 
 ###
 
@@ -144,8 +163,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
 </div>
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 ###
 
