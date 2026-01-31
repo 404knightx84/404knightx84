@@ -35,6 +35,23 @@
 
 ###
 
+<h1 align="left">🧠 Tech Stack</h1>
+
+###
+
+<h3 align="left">💻 Full Stack</h3>
+
+###
+
+<p align="left">🎨 Frontend Development<br>HTML5 , CSS3 , JavaScript (ES6+)<br>React.js , Tailwind CSS<br>⚙️ Backend Development<br>Python (FastAPI , Django)<br>Node.js , .NET<br>🗄️ Databases<br>SQL (Relational Databases)<br>MySQL<br>MongoDB<br>Firebase<br>Redis<br>☁️ Cloud & Infrastructure<br>AWS<br>Microsoft Azure<br>Cloudflare<br>Linux Environment<br>Docker<br>🔐 Additional Expertise<br>REST API Development<br>Authentication & Authorization<br>Scalable Backend Architecture<br>Version Control (Git & GitHub)</p>
+
+###
+
+<div align="center">
+</div>
+
+###
+
 <h2 align="left">🧠I code with</h2>
 
 ###
