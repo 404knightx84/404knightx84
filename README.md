@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
 
 
@@ -35,7 +35,7 @@
 
 ###
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 </div>
 <h1 align="left">🧠 Tech Stack</h1>
 
@@ -49,11 +49,9 @@
 <h3 align="left">🤖 ML ( Machine Learning )</h3>
 <div align="center">
 </div>
-<p align="left">📊Data Processing & Analysis<br>Pandas (Data manipulation & cleaning)<br>NumPy (Numerical computing)<br>Data Preprocessing & Feature Engineering<br>📈 Machine Learning<br>Scikit-learn (Regression, Classification, Model Evaluation)<br>TensorFlow (Deep Learning Models)<br>Supervised Learning Algorithms<br>Model Training, Testing & Performance Optimization</p>
+<p align="left">📊Data Processing & Analysis<br>Pandas (Data manipulation & cleaning)<br>NumPy (Numerical computing)<br>Data Preprocessing & Feature Engineering<br>📈 Machine Learning<br>Scikit-learn (Regression, Classification, Model Evaluation)<br> Matplotlib <BR> TensorFlow (Deep Learning Models)<br>Supervised Learning Algorithms<br>Model Training, Testing & Performance Optimization</p>
 
 <h3 align="left">🔐(Cybersecurity )</h3>
-
-###
 
 <p align="left">🔐 Cybersecurity <br>🌐 Networking: TCP/IP, OSI Model, DNS, HTTP/HTTPS<br>🐧 Systems: Linux Environment<br>🔒 Security Fundamentals: Cryptography Basics, Authentication & Authorization, Secure Coding<br>🛡️ Security Awareness: OWASP Top 10, Vulnerability & Risk Fundamentals</p>
 
@@ -182,9 +180,43 @@
   <a href = "https://www.hackerrank.com/profile/kalpeshkoli2006" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  </div>
+  </div> 
 
-<div align="left">
+  <h2 align="left">🚀 About My Projects</h2>
+
+###
+
+<h6 align="left">My projects focus on solving real-world problems using Data Science, Machine Learning, Backend Development, and Cybersecurity principles. I aim to build intelligent, scalable, and secure systems that create real impact.</h6>
+
+###
+
+<p align="left">*A.T.E.S (Anti Threat & Execution System) (collab)<br><br>A cybersecurity SaaS concept designed to detect and prevent digital threats.<br>Key Features:<br>Threat monitoring<br>Basic vulnerability scanning<br>Secure authentication<br>Log analysis<br>Data protection mechanisms<br>Tech Used: Python, Security Concepts, Cryptography Basics, Network Monitoring</p>
+
+###
+
+<p align="left">*Student Financial Management Platform (collab)<br><br>A student-centric fintech solution that helps manage income, expenses, loans, investment and savings.<br>Key Features:<br>Smart expense tracking<br>Budget alerts<br>Loan repayment planner<br>Financial literacy guidance<br>Clean dashboard with visual analytics<br>Tech Used: Python, Backend APIs, Data Analysis, Visualization Tools ,ML (Recoomendation system of Investment )</p>
+
+###
+
+<p align="left">*Jetson this is a low-cost, vision-based autonomous drone system powered by a Raspberry Pi and a single RGB camera. The system performs real-time object detection, tracking, and relative depth estimation to enable basic obstacle awareness and intelligent analytics. It supports use cases like urban surveillance and search & rescue by detecting humans/vehicles, estimating crowd density, and identifying unsafe flight zones using rule-based decision logic. The flight controller manages stability, while the Raspberry Pi handles high-level AI processing.<br><br>🚀 Key Features<br><br>Single RGB Camera Vision System (20–30 FPS input)<br>Lightweight Object Detection (YOLOv5n / YOLOv8n / TensorFlow Lite)<br>Multi-Object Tracking (ByteTrack / Lightweight SORT)<br>Monocular Depth Estimation (Optimized model like MiDaS small)<br>Relative Obstacle Awareness (Safe / Caution / Unsafe zones)<br>Optical Flow for Motion Detection<br>Rule-Based Navigation Logic (Not full SLAM)<br>ROS 2 + MAVLink Integration<br>Urban Surveillance Mode (crowd & vehicle monitoring)<br>Search & Rescue Mode (human detection + location tagging)<br>Live Annotated Video Streaming to Ground Station<br><br>Station<br><br>🛠 Tech Stack Used<br>🔹 Hardware<br>Raspberry Pi 4 / 5<br>Raspberry Pi Camera Module (RGB)<br>Pixhawk Flight Controller<br>IMU (built-in with flight controller)<br>Optional GPS Module<br><br>🔹 Software<br>Python<br>OpenCV<br>PyTorch / TensorFlow Lite (optimized for edge)<br>YOLO (Nano version for Pi)<br>SORT / ByteTrack (lightweight tracking)<br>MiDaS Small (for relative depth)<br>ROS 2<br>MAVLink<br><br>🔹 Optimization Tools<br>ONNX Runtime / TensorRT alternative (where possible)<br>Model quantization (INT8 / FP16)<br>Frame skipping for stable performance</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"  />
 </div>
 
