@@ -1,115 +1,125 @@
-<h1>👋 Hi, I'm Kalpesh Koli</h1>
+<h1 align="left">Hey 👋 I'm Kalpesh</h1>
 
-  <p>
-        🎓 <strong>Data Science Student</strong> | 
-        🐍 <strong>Backend Developer (Python)</strong> | 
-        🤖 <strong>Machine Learning Enthusiast</strong> | 
-        🔐 <strong>Cybersecurity Learner</strong>
-    </p>
+###
 
-  <hr> 
+<p align="left">I am a 🐍 Backend Developer (Python) | 🤖 Machine Learning Enthusiast | 🔐 Cybersecurity Learner |🎓 Data Science Student | 📈 CFA Student</p>
 
-   <h2>🚀 About Me</h2>
-  <p>
-        I am a passionate <strong>Data Science student and Backend Developer</strong> 
-        with strong interests in <strong>Machine Learning, Artificial Intelligence, and Cybersecurity</strong>.
-    </p>
-    <p>
-        I enjoy building real-world solutions using data-driven approaches and secure backend systems. 
-        My goal is to develop scalable, intelligent, and secure applications that solve meaningful problems.
-    </p>
+###
 
-   <hr>
+<h2 align="left">🚀 About Me</h2>
 
-  <h2>🛠️ Tech Stack</h2>
+###
 
-  <h3>👨‍💻 Programming & Backend</h3>
-    <ul>
-        <li>Python</li>
-        <li>Flask / FastAPI</li>
-        <li>Django (Basic)</li>
-        <li>REST APIs</li>
-        <li>SQL & Database Design</li>
-    </ul>
+<p align="left">I’m passionate about building intelligent, secure, and financially smart systems that solve real-world problems. My interests lie at the intersection of Technology + Finance — combining Data Science, Machine Learning, Backend Development, Cybersecurity, and Financial Analysis 💻📊<br><br>As a CFA student, I’m also developing strong foundations in finance, investment analysis, and portfolio management — aiming to bridge the gap between AI, Quant Finance, and Financial Technology (FinTech) 🤖</p>
 
-  <h3>📊 Data Science & Machine Learning</h3>
-    <ul>
-        <li>NumPy</li>
-        <li>Pandas</li>
-        <li>Matplotlib / Seaborn</li>
-        <li>Scikit-Learn</li>
-        <li>TensorFlow (Basic)</li>
-        <li>Data Cleaning & EDA</li>
-        <li>Model Building & Evaluation</li>
-    </ul>
+###
 
-  <h3>🔐 Cybersecurity</h3>
-    <ul>
-        <li>Network Security Basics</li>
-        <li>Cryptography Fundamentals</li>
-        <li>Web Security Concepts</li>
-        <li>Ethical Hacking (Beginner Level)</li>
-        <li>Vulnerability Assessment</li>
-    </ul>
+<h2 align="left">📌 What I’m Currently Working On</h2>
 
-  <h3>☁️ Tools & Technologies</h3>
-    <ul>
-        <li>Git & GitHub</li>
-        <li>Linux</li>
-        <li>VS Code</li>
-        <li>Jupyter Notebook</li>
-        <li>Docker (Learning)</li>
-    </ul>
+###
 
-  <hr>
-    <h2>📌 Current Focus</h2>
-    <ul>
-        <li>Building ML-powered real-world projects</li>
-        <li>Developing secure backend APIs</li>
-        <li>Learning advanced cybersecurity concepts</li>
-        <li>Exploring Cloud Computing & AI</li>
-    </ul>
+<p align="left">📊 Improving my Cybersecurity & ML skills<br>🛠️ Building backend projects using Python<br>🔐 Learning advanced cybersecurity concepts<br>📈 Studying finance & investment concepts (CFA)<br>☁️ Learning cloud & scalable system design</p>
 
-  <hr>
+###
 
-  <h2>📈 GitHub Stats</h2>
-    <p>You can add your GitHub stats below:</p>
+<h2 align="left">☁️ Tools & Technologies</h2>
 
-   <pre>
-&lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats"&gt;
-    </pre>
+###
 
-  <hr>
+<p align="left">🔧 Git<br>🌍 GitHub<br>🐧 Linux<br>💻 VS Code</p>
 
-  <h2>📂 Featured Projects</h2>
-    <ul>
-        <li>AI Loan Recommendation System</li>
-        <li>Student Financial Management Platform</li>
-        <li>A.T.E.S – Cybersecurity SaaS Concept</li>
-        <li>Backend APIs with Python & FastAPI</li>
-    </ul>
+###
 
-  <hr>
+<h2 align="left">🧠I code with</h2>
 
-  <h2>🎯 Career Goals</h2>
-    <ul>
-        <li>Secure a high-paying tech role (Data Science / ML / Cybersecurity)</li>
-        <li>Build scalable SaaS products</li>
-        <li>Contribute to open-source security & AI projects</li>
-    </ul>
+###
 
-  <hr>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+</div>
 
-  <h2>📫 Connect With Me</h2>
-    <ul>
-        <li>LinkedIn: www.linkedin.com/in/kalpesh-koli-1756b823b</li>
-        
-       
-   </ul>
-
-  <hr>
-
-  <p><strong>⭐ "Building intelligent systems with secure foundations."</strong></p>
-
-</body>
-</html>
+###
