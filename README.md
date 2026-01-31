@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
 
 
@@ -149,7 +149,10 @@
   </a>
   </div>
 
-<img src="https://raw.githubusercontent.com/404knightx84/404knightx84/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"  />
+</div>
+
 
 
 ###
