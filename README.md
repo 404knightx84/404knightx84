@@ -190,7 +190,14 @@
 
 ###
 
-<p align="left">*A.T.E.S (Anti Threat & Execution System) (collab)<br><br>A cybersecurity SaaS concept designed to detect and prevent digital threats.<br>Key Features:<br>Threat monitoring<br>Basic vulnerability scanning<br>Secure authentication<br>Log analysis<br>Data protection mechanisms<br>Tech Used: Python, Security Concepts, Cryptography Basics, Network Monitoring</p>
+<p align="left">*A.T.E.S (Anti Threat & Execution System) (collab)<br><br>A cybersecurity SaaS concept designed to detect and prevent digital threats.
+
+<p>
+A.T.E.S is a cybersecurity SaaS platform designed to detect, prevent, and respond to digital threats in real time.<br>
+It helps protect systems from attackers, unauthorized access, and malicious activities while preventing sensitive data leaks.<br>
+The platform monitors network activity, analyzes suspicious behavior, and strengthens security through threat detection,<br>
+vulnerability checks, and secure authentication mechanisms — ensuring data safety and system integrity.
+</p>
 
 ###
 
