@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I am a 🐍 Backend Developer (Python) | 🤖 Machine Learning Enthusiast | 🔐 Cybersecurity Learner |🎓 Data Science Student | 📈 CFA Student</p>
+<p align="left">I am a 🐍 Backend Developer (Python) | 🤖 Machine Learning Enthusiast | 🔐 Cybersecurity Learner |🎓 Data Science Student </p>
 
 ###
 
