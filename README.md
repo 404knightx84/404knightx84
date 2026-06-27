@@ -51,10 +51,6 @@
 </div>
 <p align="left">📊Data Processing & Analysis<br>Pandas (Data manipulation & cleaning)<br>NumPy (Numerical computing)<br>Data Preprocessing & Feature Engineering<br>📈 Machine Learning<br>Scikit-learn (Regression, Classification, Model Evaluation)<br> Matplotlib <BR> TensorFlow (Deep Learning Models)<br>Supervised Learning Algorithms<br>Model Training, Testing & Performance Optimization</p>
 
-<h3 align="left">🔐(Cybersecurity )</h3>
-
-<p align="left">🔐 Cybersecurity <br>🌐 Networking: TCP/IP, OSI Model, DNS, HTTP/HTTPS<br>🐧 Systems: Linux Environment<br>🔒 Security Fundamentals: Cryptography Basics, Authentication & Authorization, Secure Coding<br>🛡️ Security Awareness: OWASP Top 10, Vulnerability & Risk Fundamentals</p>
-
 ###
 
 <div align="center">
