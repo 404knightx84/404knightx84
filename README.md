@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I’m passionate about building intelligent, secure, and financially smart systems that solve real-world problems. My interests lie at the intersection of Technology + Finance — combining Data Science, Machine Learning, Backend Development, Cybersecurity, and Financial Analysis 💻📊<br><br>As a CFA student, I’m also developing strong foundations in finance, investment analysis, and portfolio management — aiming to bridge the gap between AI, Quant Finance, and Financial Technology (FinTech) 🤖</p>
+<p align="left">I’m passionate about building intelligent, secure, and financially smart systems that solve real-world problems. My interests lie at the intersection of Technology  — combining Data Science, Machine Learning, Backend Development 💻📊<br></p>
 
 ###
 
