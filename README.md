@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">📊 Improving my Cybersecurity & ML skills<br>🛠️ Building backend projects using Python<br>🔐 Learning advanced cybersecurity concepts<br>📈 Studying finance & investment concepts (CFA)<br>☁️ Learning cloud & scalable system design</p>
+<p align="left">📊 ML skills<br>🛠️ Building backend projects using Python <br>☁️ Learning cloud & scalable system design</p>
 
 ###
 
