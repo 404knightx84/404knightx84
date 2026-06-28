@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align=" center">Hey 👋 I'm Kalpesh</h1>
+<h1 align=" center">Hey 👋 I'm Kalpesh </h1>
 
 ###
 
@@ -230,7 +230,5 @@ The flight controller ensures stability and control, while the Raspberry Pi mana
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"  />
 </div>
-
-
 
 ###
