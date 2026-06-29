@@ -186,24 +186,12 @@
 
 ###
 
-<p align="left">*A.T.E.S (Anti Threat & Execution System) (collab)<br><br>A cybersecurity SaaS concept designed to detect and prevent digital threats.
-
-<p>
-A.T.E.S is a cybersecurity SaaS platform designed to detect, prevent, and respond to digital threats in real time.<br>
-It helps protect systems from attackers, unauthorized access, and malicious activities while preventing sensitive data leaks.<br>
-The platform monitors network activity, analyzes suspicious behavior, and strengthens security through threat detection,<br>
-vulnerability checks, and secure authentication mechanisms — ensuring data safety and system integrity.
-</p>
-
-###
-
 <p align="left">*Student Financial Management Platform (collab)<br><br>A student-centric fintech solution that helps manage income, expenses, loans, investment and savings.<br><p>
 FinDesk is a student-focused financial management platform designed to help users track income, manage expenses, plan budgets, and understand loans in a simple and smart way.<br>
 It provides real-time expense tracking, budget alerts, loan guidance, and financial insights through a clean dashboard.<br> Ml Recommendationsystem for the smart investment and budgey management
 FinDesk aims to improve financial literacy while helping students make better financial decisions and manage their money efficiently.
 </p>
-
-
+ 
 <p align="left">*Jetson this is a low-cost, vision-based autonomous drone system powered by a Raspberry Pi and a single RGB camera.</p><br><p>
 Jetson is a low-cost, vision-based autonomous drone system powered by a Raspberry Pi and a single RGB camera.<br>
 The system performs real-time object detection, tracking, and relative depth estimation to enable basic obstacle awareness and intelligent analytics.<br>
